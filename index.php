@@ -200,7 +200,7 @@
     <header>
         <nav>
             <div>
-                    <a href="#" class="nav-item nav-logo">CableCars</a>
+                    <a href="#" class="nav-item nav-logo">Manakamana CableCars</a>
                     <!-- <a href="#" class="nav-item">Gallery</a> -->
             </div>
                 
@@ -316,7 +316,7 @@
         </section>
         <footer>
         <p>
-                        <i class="far fa-copyright"></i> <?php echo date('Y');?> - Manakamana Ticket Booking System | Made &#10084;&#65039; by Jivan pun
+                        <i class="far fa-copyright"></i> <?php echo date('Y');?> - Manakamana Ticket Booking System | Made &#10084;&#65039; by Nishan Thapa Magar
                         </p>
         </footer>
     </div>
